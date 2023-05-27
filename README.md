@@ -12,7 +12,9 @@
 
 ### 3. Execute seu projeto pelo terminal do Gitpod:
 
-`flutter run -d web-server --web-hostname=0.0.0.0 --web-port=3000`
+~~~
+$ flutter run -d web-server --web-hostname=0.0.0.0 --web-port=3000
+~~~
 
 ### 4. Vá para a aba *PORTS*, do lado do Terminal, e na Port 3000 e clique em *Open Preview*, para abrir ao lado do código, ou *Open Browser*, para abrir em uma nova aba do navegador.
 
