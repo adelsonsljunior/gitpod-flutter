@@ -16,7 +16,7 @@
 $ flutter run -d web-server --web-hostname=0.0.0.0 --web-port=3000
 ~~~
 
-### 4. Vá para a aba *PORTS*, do lado do Terminal, e na Port 3000 e clique em *Open Preview*, para abrir ao lado do código, ou *Open Browser*, para abrir em uma nova aba do navegador.
+### 4. Vá para a aba *PORTS*, do lado do Terminal, e na Port 3000 clique em *Open Preview*, para abrir ao lado do código, ou *Open Browser*, para abrir em uma nova aba do navegador.
 
 ![image](https://user-images.githubusercontent.com/94010073/236356301-ac3feab6-a7e9-41fe-b097-3993ec138a17.png)
 ![image](https://user-images.githubusercontent.com/94010073/236356199-5c6f1887-e5a4-4202-b0b0-b6d7da3b1aea.png)
