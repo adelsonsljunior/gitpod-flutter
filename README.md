@@ -6,7 +6,7 @@
 
 ### 1. Adicione os dois arquivos deste repositório na raiz de seu projeto
 
-![Captura de tela 2023-05-04 173302](https://user-images.githubusercontent.com/94010073/236323480-1f23e3de-adf8-414b-9a55-30e58ba63227.png)
+![image](https://github.com/adelsonsljunior/gitpod-flutter/assets/94010073/a0b65aee-fe9b-4470-9c83-a496bc6fbd2b)
 
 ### 2. Abra seu repositório no [Gitpod](https://www.gitpod.io)
 
